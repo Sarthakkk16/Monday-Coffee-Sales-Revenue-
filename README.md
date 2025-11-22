@@ -11,6 +11,8 @@ ER Diagram showing relationships between:
 
 city → customers → sales → products
 
+![](https://github.com/Sarthakkk16/Monday-Coffee-Sales-Revenue-/blob/main/ER%20Diagram.png)
+
 
 # 📊 Key Insights / Reports Included
 
