@@ -9,7 +9,7 @@ This repository contains a complete PostgreSQL data analytics project, built usi
 
 Fully normalized relational database model
 
-ER Diagram showing relationships between:
+Database Schema between:
 
 city → customers → sales → products
 
