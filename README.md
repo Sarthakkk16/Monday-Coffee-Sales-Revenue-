@@ -15,13 +15,21 @@ city → customers → sales → products
 # 📊 Key Insights / Reports Included
 
 ✔ Coffee consumer estimation by city
+
 ✔ City-wise revenue analysis
+
 ✔ Top selling products
+
 ✔ Avg sales per customer
+
 ✔ Customer segmentation by city
+
 ✔ Top 3 products per city using DENSE_RANK()
+
 ✔ Sales growth (MoM) using LAG()
+
 ✔ Market potential analysis (rent vs sales vs customers)
+
 ✔ Many more SQL analytical problems solved end-to-end
 
 # 🛠 Tech Stack
